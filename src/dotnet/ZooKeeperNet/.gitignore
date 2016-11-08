@@ -3,4 +3,5 @@ obj
 _ReSharper*
 *ReSharper*
 *.suo
-Generated
+!Generated
+!Generated/*.cs
